@@ -1,5 +1,6 @@
 {
   "name": "rased-ai-api",
   "main": "api/worker.js",
-  "compatibility_date": "2026-10-26"
+  "compatibility_date": "2026-10-26",
+  "workers_dev": true
 }
